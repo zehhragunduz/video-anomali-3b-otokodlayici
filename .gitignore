@@ -1,0 +1,14 @@
+# Veri ve büyük dosyalar depoya konmaz
+*.pth
+*.npy
+*.npz
+*.avi
+*.mp4
+*.zip
+*.tar.gz
+frames/
+data/
+avenue_gt/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
