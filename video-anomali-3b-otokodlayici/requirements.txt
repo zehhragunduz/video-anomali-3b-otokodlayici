@@ -1,0 +1,11 @@
+# Notebook'lar Google Colab'da (Python 3, T4 GPU) çalıştırılmıştır; Colab'da hepsi hazır gelir.
+torch
+torchvision
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+pillow
+opencv-python
+tabulate

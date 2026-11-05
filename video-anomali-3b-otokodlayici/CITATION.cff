@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Bu kodu kullanırsanız lütfen aşağıdaki bilgilerle atıf yapın."
+title: "Güvenlik Kamerası Videolarında 3B Evrişimli Otokodlayıcı ile Denetimsiz Anomali Tespiti ve Çapraz Veri Seti Genellenebilirliğinin Analizi"
+authors:
+  - family-names: "Gündüz"
+    given-names: "Zehra"
+    affiliation: "Fırat Üniversitesi"
+  - family-names: "İnci"
+    given-names: "Ayşe Sıla"
+    affiliation: "Fırat Üniversitesi"
+version: "1.0.0"
+date-released: "2026-11-05"
+license: MIT

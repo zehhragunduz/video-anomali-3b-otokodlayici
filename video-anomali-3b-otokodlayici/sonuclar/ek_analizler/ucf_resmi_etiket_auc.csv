@@ -1,0 +1,6 @@
+﻿Karşılaştırma,AUC (%),Negatif sekans,Pozitif sekans
+Makaledeki kurulum: normal videolar vs anomali videolarının tüm sekansları,98.7,165,516
+Resmi etiket: normal videolar vs yalnızca olay sekansları,98.75,165,18
+Normal videolar vs anomali videolarının olay DIŞI sekansları,98.48,165,418
+Aynı video içi: olay dışı vs olay sekansları,55.74,418,18
+"Aynı video içi, yalnızca Fighting003_x264",64.47,76,18

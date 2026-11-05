@@ -1,0 +1,15 @@
+﻿Metrik,seed42,seed7,seed2024,Ortalama ± std
+Avenue mikro AUC %,86.75,87.1,86.85,86.90 ± 0.15
+Avenue makro AUC %,83.53,83.8,83.21,83.51 ± 0.24
+UCF-Crime ROC-AUC %,95.3,98.6,96.62,96.84 ± 1.36
+UCF-Crime PR-AUC %,96.97,99.5,98.13,98.20 ± 1.03
+UCF-Crime yanlış alarm P95 %,30.81,76.16,71.51,59.50 ± 20.37
+UCF-Crime recall P95 %,100.0,100.0,100.0,100.00 ± 0.00
+UCF-Crime yanlış alarm P99 %,8.14,10.47,9.88,9.50 ± 0.99
+UCF-Crime recall P99 %,96.12,99.22,97.48,97.61 ± 1.27
+UR Fall ADL–düşme AUC % (K1-a),87.13,83.11,88.09,86.11 ± 2.16
+UR Fall aynı video içi AUC % (K1-b),57.06,53.08,59.18,56.44 ± 2.53
+UR Fall yanlış alarm P95 %,77.93,64.34,46.55,62.94 ± 12.85
+UR Fall recall P95 %,99.44,100.0,100.0,99.81 ± 0.26
+UR Fall yanlış alarm P99 %,28.28,43.81,39.23,37.11 ± 6.52
+UR Fall recall P99 %,95.32,100.0,97.55,97.62 ± 1.91

@@ -1,0 +1,8 @@
+﻿Kategori,Video,Videonun toplam karesi,Resmi olay aralığı,Kullanılan kare aralığı,Kullanılan kare,Olay içinde,Olay dışında
+Normal,Normal_Videos_003_x264,2822,— (normal),0–2820,283,—,—
+Normal,Normal_Videos_006_x264,450,— (normal),0–440,45,—,—
+Normal,Normal_Videos_010_x264,1053,— (normal),0–1050,22,—,—
+Kavga (Fighting),Fighting003_x264,3102,1820–3103,0–3100,311,129,182
+Kavga (Fighting),Fighting018_x264,1389,80–420,0–1320,39,4,35
+Hırsızlık (Stealing),Stealing019_x264,4911,"2730–2790, 4170–4350",0–4120,350,7,343
+Soygun (Burglary),Burglary005_x264,7729,4710–5040,0–4120,350,0,350

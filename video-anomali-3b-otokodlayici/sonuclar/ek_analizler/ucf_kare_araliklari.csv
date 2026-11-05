@@ -1,0 +1,8 @@
+﻿Kategori,Klasör,Video,Kare sayısı,İlk sayı,Son sayı,Adım (medyan),Boşluk var mı
+Normal,ucf_normal,ucf_ucf_normal_Normal_Videos_003_x264,283,0,2820,10,hayır
+Normal,ucf_normal,ucf_ucf_normal_Normal_Videos_006_x264,45,0,440,10,hayır
+Normal,ucf_normal,ucf_ucf_normal_Normal_Videos_010_x264,22,0,1050,10,evet
+Kavga (Fighting),ucf_fighting,ucf_ucf_fighting_Fighting003_x264,311,0,3100,10,hayır
+Kavga (Fighting),ucf_fighting,ucf_ucf_fighting_Fighting018_x264,39,0,1320,10,evet
+Hırsızlık (Stealing),ucf_robbery,ucf_ucf_robbery_Stealing019_x264,350,0,4120,10,evet
+Soygun (Burglary),ucf_accident,ucf_ucf_accident_Burglary005_x264,350,0,4120,10,evet

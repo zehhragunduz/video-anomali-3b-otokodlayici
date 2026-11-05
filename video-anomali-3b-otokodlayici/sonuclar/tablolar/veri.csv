@@ -1,0 +1,9 @@
+﻿Kategori,Kaynak,Video sayısı,Kare,Sekans,Etiket,Örnek dosya adı
+Normal,UCF-Crime,3,350,172,Normal,ucf_ucf_normal_Normal_Videos_003_x264_0.png
+Kavga (Fighting),UCF-Crime,2,350,172,Anomali,ucf_ucf_fighting_Fighting003_x264_0.png
+Hırsızlık (Stealing),UCF-Crime,1,350,172,Anomali,ucf_ucf_robbery_Stealing019_x264_0.png
+Soygun (Burglary),UCF-Crime,1,350,172,Anomali,ucf_ucf_accident_Burglary005_x264_0.png
+UR Fall ADL (K1),UR Fall,40,8941,4346,Normal,
+UR Fall düşme (K1),UR Fall,30,2995,1400,Kare etiketli,
+fall_test (önceki sürüm — ÇIKARILDI),UR Fall,75,1550,772,600 ADL karesi yanlışlıkla anomali etiketliydi,fall_adl-01-cam0-rgb_...
+Avenue test,CUHK Avenue,21,15324,—,Kare etiketli,

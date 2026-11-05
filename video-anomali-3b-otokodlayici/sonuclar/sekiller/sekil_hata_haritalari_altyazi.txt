@@ -1,0 +1,6 @@
+Avenue video 4 — normal kare: sekans MSE = 2.25e-05, eşiğin 0.44 katı
+Avenue video 4 — anomali karesi: sekans MSE = 9.51e-05, eşiğin 1.84 katı
+Normal (medyan skorlu sekans): sekans MSE = 4.69e-05, eşiğin 0.91 katı
+Kavga (Fighting) (medyan skorlu sekans): sekans MSE = 2.38e-04, eşiğin 4.61 katı
+Hırsızlık (Stealing) (medyan skorlu sekans): sekans MSE = 2.22e-04, eşiğin 4.30 katı
+Soygun (Burglary) (medyan skorlu sekans): sekans MSE = 1.77e-04, eşiğin 3.44 katı

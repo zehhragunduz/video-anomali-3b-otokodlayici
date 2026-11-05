@@ -1,0 +1,9 @@
+﻿Yöntem,Avenue AUC %,Ped2 AUC %,Not
+"Conv-AE (Hasan ve ark., 2016)",70.2,90.0,Özgün makale değerleri
+Conv-AE (Liu ve ark. 2018 yeniden uygulaması),80.0,85.0,"Liu ve ark. 2018, Tablo"
+"ConvLSTM-AE (Luo ve ark., 2017)",77.0,88.1,
+"Gelecek kare tahmini (Liu ve ark., 2018)",85.1,95.4,
+"MemAE (Gong ve ark., 2019)",83.3,94.1,
+"MNAD-yeniden yapılandırma (Park ve ark., 2020)",82.8,90.2,
+"MNAD-tahmin (Park ve ark., 2020)",88.5,97.0,
+Önerilen 3B otokodlayıcı (bu çalışma),86.75,70.7,"Aynı protokol, kare düzeyi mikro AUC, ham skor"
